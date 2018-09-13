@@ -7,8 +7,8 @@ var pg = require("pg");
 
 var config = {
     user: 'postgres',
-    database: 'postgres', 
-    password: 'rushabh7cr', 
+    database: 'Dbname', 
+    password: 'password', 
     port: 5432, 
   };
 
